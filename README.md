@@ -1,4 +1,4 @@
-# Python Projects & Practice
+<h1># Python Projects & Practice</h1>
 
 This repository contains my Python class notes, assignments, and practice files from my Full Stack training program.  
 It serves as a collection of exercises and examples I’ve worked on while learning Python.
