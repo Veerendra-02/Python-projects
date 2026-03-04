@@ -1,3 +1,4 @@
+"""
 class Faculty:
     def __init__(self):
         self.id=None
@@ -22,4 +23,6 @@ obj=Faculty()
 obj.getdata()
 print(obj)
 obj.display()
+"""
+
 
